@@ -1,0 +1,19 @@
+body{
+    background-color: #212529;
+}
+.form{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+    width: 80%;
+    
+}
+.nov{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+.blue{
+    height: 200px;
+   
+}
+#welcomeUser{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+    margin: auto;
+}
